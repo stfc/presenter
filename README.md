@@ -3,6 +3,11 @@ Presenter
 
 Python driven webkit for driving ops displays.
 
+Usage
+=====
+
+See `./presenter.py --help`.
+
 Controls
 ========
 
