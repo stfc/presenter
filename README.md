@@ -6,23 +6,24 @@ Python driven webkit for driving ops displays.
 Usage
 =====
 
-See `./presenter.py --help`.
+See `./presenter.py --help`
 
 Controls
 ========
 
-`SPACE`	Skip forward a page
-`ESC`	Exit
+__SPACE__	Skip forward a page
+
+__ESC__	Exit
 
 Configuration
 =============
 
 Add full URLs to `pages.list`.
-Due to limitations in `pywebkit`, web proxies cannot supported.
+Due to limitations in pywebkit, web proxies are not supported.
 
 License
 =======
-
+```
    Copyright 2013 Science & Technology Facilities Council
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -36,3 +37,4 @@ License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+```
